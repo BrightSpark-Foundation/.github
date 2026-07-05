@@ -4,6 +4,8 @@ Welcome to the central repository for the **Bright Spark Foundation** community!
 
 This repository serves as our team's main hub for collaboration, curriculum development, and resource sharing.
 
+🔗 **Live Website:** [bright-spark-foundation.vercel.app](https://bright-spark-foundation.vercel.app)
+
 ## 📁 What's Inside
 
 * **`/curriculum`** *(Coming Soon)*: Lesson plans, wiring diagrams, and code snippets for Arduino, Raspberry Pi, and micro:bit projects.
